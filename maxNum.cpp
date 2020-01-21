@@ -24,7 +24,7 @@ int main()
     for(int i=0;i<n;i++){
         cin>>a[i];
     }
-    int m=MaxNum(a,n);
+    int m=MaxNum(a,n); 
     cout<<m;
     return 0;
 }
